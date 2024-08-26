@@ -5,3 +5,8 @@
 1. postgreSQL 기반 DB 직접 통신
 2. RestAPI를 통한 백엔드를 걸친 비동기 통신
 3. 각 경우에 따른 Login 및 Auth 관리를 Next_Auth를 통해 구현
+
+고려사항
+
+1. 글꼴의 최적화와 Next
+   https://nextjs.org/learn/dashboard-app/optimizing-fonts-images#why-optimize-fonts
