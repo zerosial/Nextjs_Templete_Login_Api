@@ -13,3 +13,4 @@
 2. 로딩 파일을 통한 비동기의 차이 (스트리밍)
    dashboadr/loading.tsx 및 data.ts의 fetchRevenue 임시 지연
    https://nextjs.org/learn/dashboard-app/streaming
+   정적 및 동적 렌더링 관련
