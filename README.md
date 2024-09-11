@@ -14,3 +14,8 @@
    dashboadr/loading.tsx 및 data.ts의 fetchRevenue 임시 지연
    https://nextjs.org/learn/dashboard-app/streaming
    정적 및 동적 렌더링 관련
+
+
+### 발표 자료
+
+https://gamma.app/docs/Nextjs--s6nwyypdp4dnbh1
